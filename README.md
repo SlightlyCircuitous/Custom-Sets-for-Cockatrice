@@ -15,7 +15,7 @@ This repository contains separate .xml files for some of the Secret Lair Drops, 
 Souce: The wonderful [Cockatrice Wiki](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets)
 
 # Drops in This Repository
-[Every Dog Has its Day]
+[Every Dog Has its Day](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D96+cn%3C%3D99%29&unique=prints)
 
 [International Women's Day](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D51+cn%3C%3D55%29&unique=prints)
 

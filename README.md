@@ -15,18 +15,18 @@ This repository contains separate .xml files for some of the Secret Lair Drops, 
 Souce: The wonderful [Cockatrice Wiki](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets)
 
 # Drops in This Repository
-Every Dog Has its Day
+[Every Dog Has its Day]
 
-International Women's Day
+[International Women's Day](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D51+cn%3C%3D55%29&unique=prints)
 
-Just Some Totally Normal Guys
+[Just Some Totally Normal Guys](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D1075+cn%3C%3D1078%29&unique=prints)
 
-Monster Movie Marathon
+[Monster Movie Marathon](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D321+cn%3C%3D324%29&unique=prints)
 
-Party Hard, Shred Harder
+[Party Hard, Shred Harder](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D138+cn%3C%3D142%29&unique=prints)
 
-Pride Across the Multiverse
+[Pride Across the Multiverse](https://scryfall.com/search?order=set&q=set%3Asld+%28%28cn%3E%3D1005+cn%3C%3D1011%29+or+cn%3A702%29&unique=prints)
 
-Shades Not Included
+[Shades Not Included](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D415+cn%3C%3D419%29&unique=prints)
 
-Thrilling Tales of the Undead
+[Thrilling Tales of the Undead](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D231+cn%3C%3D233%29&unique=prints)

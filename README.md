@@ -15,6 +15,10 @@ This repository contains separate .xml files for some of the Secret Lair Drops, 
 Souce: The wonderful [Cockatrice Wiki](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets)
 
 # Drops in This Repository
+[Black is Magic](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D244+cn%3C%3D250%29&unique=prints)
+
+[A Box of Rocks](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D201+cn%3C%3D205%29&unique=prints)
+
 [Every Dog Has its Day](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D96+cn%3C%3D99%29&unique=prints)
 
 [International Women's Day](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D51+cn%3C%3D55%29&unique=prints)
@@ -28,5 +32,9 @@ Souce: The wonderful [Cockatrice Wiki](https://github.com/Cockatrice/Cockatrice/
 [Pride Across the Multiverse](https://scryfall.com/search?order=set&q=set%3Asld+%28%28cn%3E%3D1005+cn%3C%3D1011%29+or+cn%3A702%29&unique=prints)
 
 [Shades Not Included](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D415+cn%3C%3D419%29&unique=prints)
+
+[Showcase: Streets of New Capenna](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D453+cn%3C%3D455%29&unique=prints)
+
+[Special Guest: Matt Jukes](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D456+cn%3C%3D460%29&unique=prints)
 
 [Thrilling Tales of the Undead](https://scryfall.com/search?order=set&q=set%3Asld+%28cn%3E%3D231+cn%3C%3D233%29&unique=prints)

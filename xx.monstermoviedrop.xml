@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>MMMD</name>
+            <longname>Monster Movie Marathon</longname>
+            <settype>Custom</settype>
+            <releasedate>2022-10-18</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Beast Within</name>
+            <text>Destroy target permanent. Its controller creates a 3/3 green Beast creature token.</text>
+            <prop>
+                <manacost>2G</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Instant</type>
+                <side>front</side>
+                <coloridentity>G</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>3</cmc>
+                <maintype>Instant</maintype>
+                <colors>G</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="a23446e7-8573-4e8e-8698-e4ca62424416" num="323">MMMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Dismember</name>
+            <text>({B/P} can be paid with either {B} or 2 life.)
+Target creature gets -5/-5 until end of turn.</text>
+            <prop>
+                <manacost>1{B/P}{B/P}</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Instant</type>
+                <side>front</side>
+                <coloridentity>B</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>3</cmc>
+                <maintype>Instant</maintype>
+                <colors>B</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="03da66e3-a369-4433-a2b8-8625403d34b0" num="321">MMMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Grafdigger's Cage</name>
+            <text>Creature cards in graveyards and libraries can't enter the battlefield.
+Players can't cast spells from graveyards or libraries.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <manacost>1</manacost>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Artifact</type>
+                <side>front</side>
+                <format-gladiator>legal</format-gladiator>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>1</cmc>
+                <maintype>Artifact</maintype>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="c1b5c132-c4d0-42df-bc5b-e7fe0a31a9e7" num="324">MMMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Blasphemous Act</name>
+            <text>This spell costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.</text>
+            <prop>
+                <manacost>8R</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Sorcery</type>
+                <side>front</side>
+                <coloridentity>R</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>9</cmc>
+                <maintype>Sorcery</maintype>
+                <colors>R</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="4a184a4a-2c8c-4a10-9b26-a174859fa1e8" num="322">MMMD</set>
+            <tablerow>3</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>PHSD</name>
+            <longname>Party Hard, Shred Harder</longname>
+            <settype>Custom</settype>
+            <releasedate>2020-11-30</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Assassin's Trophy</name>
+            <text>Destroy target permanent an opponent controls. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle.</text>
+            <prop>
+                <manacost>BG</manacost>
+                <format-commander>legal</format-commander>
+                <side>front</side>
+                <coloridentity>BG</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <colors>BG</colors>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Instant</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>2</cmc>
+                <maintype>Instant</maintype>
+            </prop>
+            <set rarity="rare" uuid="d00efb55-a859-408c-b727-6914584c06d2" num="139">PHSD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Anguished Unmaking</name>
+            <text>Exile target nonland permanent. You lose 3 life.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <manacost>1WB</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Instant</type>
+                <side>front</side>
+                <coloridentity>WB</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>3</cmc>
+                <maintype>Instant</maintype>
+                <colors>WB</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="bbd79be1-3e84-41a3-89ae-b1132cb31ed9" num="138">PHSD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Thraximundar</name>
+            <text>Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</text>
+            <prop>
+                <manacost>4UBR</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Creature — Zombie Assassin</type>
+                <side>front</side>
+                <coloridentity>UBR</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>7</cmc>
+                <maintype>Creature</maintype>
+                <pt>6/6</pt>
+                <colors>UBR</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="mythic" uuid="048c829a-3f14-493d-b961-c7fb9cd23613" num="142">PHSD</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Dreadbore</name>
+            <text>Destroy target creature or planeswalker.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <manacost>BR</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Sorcery</type>
+                <side>front</side>
+                <coloridentity>BR</coloridentity>
+                <format-modern>legal</format-modern>
+                <cmc>2</cmc>
+                <maintype>Sorcery</maintype>
+                <colors>BR</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="f15bf26b-d9cd-4aa6-a832-793b8631d681" num="141">PHSD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Decimate</name>
+            <text>Destroy target artifact, target creature, target enchantment, and target land.</text>
+            <prop>
+                <manacost>2RG</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Sorcery</type>
+                <side>front</side>
+                <coloridentity>RG</coloridentity>
+                <cmc>4</cmc>
+                <maintype>Sorcery</maintype>
+                <format-premodern>legal</format-premodern>
+                <colors>RG</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="a1d00d0f-8838-4fd0-b058-7039301af338" num="140">PHSD</set>
+            <tablerow>3</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>SNCD</name>
+            <longname>Showcase: Streets of New Capenna</longname>
+            <settype>Custom</settype>
+            <releasedate>2022-4-11</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Breya, Etherium Shaper</name>
+            <text>When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying.
+{2}, Sacrifice two artifacts: Choose one —
+• Breya deals 3 damage to target player or planeswalker.
+• Target creature gets -4/-4 until end of turn.
+• You gain 5 life.</text>
+            <prop>
+                <manacost>WUBR</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>restricted</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Artifact Creature — Human</type>
+                <side>front</side>
+                <coloridentity>WUBR</coloridentity>
+                <cmc>4</cmc>
+                <maintype>Creature</maintype>
+                <pt>4/4</pt>
+                <colors>WUBR</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="mythic" uuid="581591f0-b3c7-4fca-b4b9-1d1d098ca7fb" num="454">SNCD</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Atraxa, Praetors' Voice</name>
+            <text>Flying, vigilance, deathtouch, lifelink
+At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+            <prop>
+                <manacost>GWUB</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Creature — Phyrexian Angel Horror</type>
+                <side>front</side>
+                <coloridentity>WUBG</coloridentity>
+                <cmc>4</cmc>
+                <maintype>Creature</maintype>
+                <pt>4/4</pt>
+                <colors>WUBG</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="mythic" uuid="7cc19f85-7ef6-4fd2-83e5-0dbae1d80f2b" num="453">SNCD</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Yidris, Maelstrom Wielder</name>
+            <text>Trample
+Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast spells from your hand this turn, they gain cascade. (When you cast the spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)</text>
+            <prop>
+                <manacost>UBRG</manacost>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Creature — Ogre Wizard</type>
+                <side>front</side>
+                <coloridentity>UBRG</coloridentity>
+                <cmc>4</cmc>
+                <maintype>Creature</maintype>
+                <pt>5/4</pt>
+                <colors>UBRG</colors>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="mythic" uuid="bcd008c4-884a-4c98-8842-8f4b35fbdf81" num="455">SNCD</set>
+            <tablerow>2</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

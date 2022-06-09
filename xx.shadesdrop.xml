@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>SNID</name>
+            <longname>Shades Not Included</longname>
+            <settype>Custom</settype>
+            <releasedate>2022-02-17</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Island</name>
+            <text>({T}: Add {U}.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>U</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <format-alchemy>legal</format-alchemy>
+                <format-premodern>legal</format-premodern>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-brawl>legal</format-brawl>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-standard>legal</format-standard>
+                <format-vintage>legal</format-vintage>
+                <format-future>legal</format-future>
+                <type>Basic Land — Island</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set muid="485277" rarity="rare" uuid="bd081bbf-8e82-405c-a522-f826fa0a6e1d" num="416">SNID</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Swamp</name>
+            <text>({T}: Add {B}.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>B</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <format-alchemy>legal</format-alchemy>
+                <format-premodern>legal</format-premodern>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-brawl>legal</format-brawl>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-standard>legal</format-standard>
+                <format-vintage>legal</format-vintage>
+                <format-future>legal</format-future>
+                <type>Basic Land — Swamp</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set muid="485278" rarity="rare" uuid="085b4641-62fb-4820-aded-ccc9403d319e" num="417">SNID</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Mountain</name>
+            <text>({T}: Add {R}.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>R</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <format-alchemy>legal</format-alchemy>
+                <format-premodern>legal</format-premodern>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-brawl>legal</format-brawl>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-standard>legal</format-standard>
+                <format-vintage>legal</format-vintage>
+                <format-future>legal</format-future>
+                <type>Basic Land — Mountain</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set muid="485279" rarity="rare" uuid="dd8611ec-6db3-4d29-8d3b-01e87bb38a55" num="418">SNID</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Forest</name>
+            <text>({T}: Add {G}.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>G</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <format-alchemy>legal</format-alchemy>
+                <format-premodern>legal</format-premodern>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-brawl>legal</format-brawl>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-standard>legal</format-standard>
+                <format-vintage>legal</format-vintage>
+                <format-future>legal</format-future>
+                <type>Basic Land — Forest</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set muid="485280" rarity="rare" uuid="5fca5dbb-8d5e-4471-94f6-e0944cf60ed2" num="419">SNID</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Plains</name>
+            <text>({T}: Add {W}.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>W</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <format-alchemy>legal</format-alchemy>
+                <format-premodern>legal</format-premodern>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-brawl>legal</format-brawl>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-standard>legal</format-standard>
+                <format-vintage>legal</format-vintage>
+                <format-future>legal</format-future>
+                <type>Basic Land — Plains</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set muid="485276" rarity="rare" uuid="c71446bd-08f2-41fe-ae44-db44814c8afb" num="415">SNID</set>
+            <tablerow>0</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

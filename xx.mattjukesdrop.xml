@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>GMJD</name>
+            <longname>Special Guest: Matt Jukes</longname>
+            <settype>Custom</settype>
+            <releasedate>2022-4-11</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Sunpetal Grove</name>
+            <text>Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
+{T}: Add {G} or {W}.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <side>front</side>
+                <coloridentity>WG</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="e6fe0942-a5c9-4821-9992-19467e3a1176" num="460">GMJD</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Drowned Catacomb</name>
+            <text>Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
+{T}: Add {U} or {B}.</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>UB</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set rarity="rare" uuid="70afd57f-d4cb-4219-a2c7-28ed9b1abe0f" num="457">GMJD</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Glacial Fortress</name>
+            <text>Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
+{T}: Add {W} or {U}.</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>WU</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set rarity="rare" uuid="3ff751c7-34c9-498a-bd9f-c6b0c8a194f4" num="456">GMJD</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Dragonskull Summit</name>
+            <text>Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
+{T}: Add {B} or {R}.</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>BR</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set rarity="rare" uuid="60ecd9bf-757b-4eeb-bef3-0b9ad2e86fca" num="458">GMJD</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Rootbound Crag</name>
+            <text>Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
+{T}: Add {R} or {G}.</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>RG</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+            </prop>
+            <set rarity="rare" uuid="be0481ee-a028-436d-a4f8-a43720d1e542" num="459">GMJD</set>
+            <tablerow>0</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

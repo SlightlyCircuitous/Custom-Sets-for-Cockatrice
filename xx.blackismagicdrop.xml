@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+            <name>BIMD</name>
+            <longname>Black is Magic Drop</longname>
+            <settype>Custom</settype>
+            <releasedate>2021-02-22</releasedate>
+        </set>
+    </sets>
+    <cards>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+                <manacost>1</manacost>
+                <format-commander>legal</format-commander>
+                <format-oldschool>restricted</format-oldschool>
+                <format-duel>banned</format-duel>
+                <format-legacy>banned</format-legacy>
+                <format-vintage>restricted</format-vintage>
+                <type>Artifact</type>
+                <side>front</side>
+                <cmc>1</cmc>
+                <maintype>Artifact</maintype>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="7bf22be9-bf1a-48ec-a825-d19504f9dfcc" num="249">BIMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Cultivate</name>
+            <text>Search your library for up to two basic land cards, reveal those cards, put one onto the battlefield tapped and the other into your hand, then shuffle.</text>
+            <prop>
+                <manacost>2G</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>G</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <format-pauper>legal</format-pauper>
+                <colors>G</colors>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Sorcery</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>3</cmc>
+                <maintype>Sorcery</maintype>
+            </prop>
+            <set rarity="rare" uuid="af9a4b1e-f6c0-489b-878b-533dd46cdd1a" num="246">BIMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Ponder</name>
+            <text>Look at the top three cards of your library, then put them back in any order. You may shuffle.
+Draw a card.</text>
+            <prop>
+                <manacost>U</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>U</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>banned</format-modern>
+                <format-pauper>legal</format-pauper>
+                <colors>U</colors>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>restricted</format-vintage>
+                <type>Sorcery</type>
+                <cmc>1</cmc>
+                <maintype>Sorcery</maintype>
+            </prop>
+            <set rarity="rare" uuid="84d02bf4-eefd-4916-ab5a-cc16b3e6a186" num="245">BIMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Kaya, Ghost Assassin</name>
+            <text>[0]: Exile Kaya, Ghost Assassin or up to one target creature. Return that card to the battlefield under its owner's control at the beginning of your next upkeep. You lose 2 life.
+[−1]: Each opponent loses 2 life and you gain 2 life.
+[−2]: Each opponent discards a card and you draw a card.</text>
+            <prop>
+                <manacost>2WB</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Planeswalker — Kaya</type>
+                <side>front</side>
+                <coloridentity>WB</coloridentity>
+                <cmc>4</cmc>
+                <maintype>Planeswalker</maintype>
+                <colors>WB</colors>
+                <layout>normal</layout>
+                <loyalty>5</loyalty>
+            </prop>
+            <set rarity="rare" uuid="67851439-26d6-422d-9bce-8c9c25ffc0c2" num="247">BIMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Path of Ancestry</name>
+            <text>Path of Ancestry enters the battlefield tapped.
+{T}: Add one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)</text>
+            <prop>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Land</type>
+                <side>front</side>
+                <cmc>0</cmc>
+                <maintype>Land</maintype>
+                <format-pauper>legal</format-pauper>
+                <format-paupercommander>legal</format-paupercommander>
+                <layout>normal</layout>
+            </prop>
+            <set rarity="rare" uuid="35425069-0d8d-4a02-ba7c-50e7abfecb4c" num="250">BIMD</set>
+            <tablerow>0</tablerow>
+            <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Shalai, Voice of Plenty</name>
+            <text>Flying
+You, planeswalkers you control, and other creatures you control have hexproof.
+{4}{G}{G}: Put a +1/+1 counter on each creature you control.</text>
+            <prop>
+                <manacost>3W</manacost>
+                <format-commander>legal</format-commander>
+                <format-penny>legal</format-penny>
+                <side>front</side>
+                <coloridentity>WG</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <colors>W</colors>
+                <layout>normal</layout>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Creature — Angel</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>4</cmc>
+                <maintype>Creature</maintype>
+                <pt>3/4</pt>
+            </prop>
+            <set rarity="rare" uuid="882d3475-4fb9-49ad-bc19-e6331428701b" num="244">BIMD</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Teferi, Hero of Dominaria</name>
+            <text>[+1]: Draw a card. At the beginning of the next end step, untap up to two lands.
+[−3]: Put target nonland permanent into its owner's library third from the top.
+[−8]: You get an emblem with "Whenever you draw a card, exile target permanent an opponent controls."</text>
+            <prop>
+                <manacost>3WU</manacost>
+                <format-commander>legal</format-commander>
+                <side>front</side>
+                <coloridentity>WU</coloridentity>
+                <format-gladiator>legal</format-gladiator>
+                <format-modern>legal</format-modern>
+                <colors>WU</colors>
+                <layout>normal</layout>
+                <loyalty>4</loyalty>
+                <format-pioneer>legal</format-pioneer>
+                <format-historic>legal</format-historic>
+                <format-explorer>legal</format-explorer>
+                <format-duel>legal</format-duel>
+                <format-legacy>legal</format-legacy>
+                <format-vintage>legal</format-vintage>
+                <type>Legendary Planeswalker — Teferi</type>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <cmc>5</cmc>
+                <maintype>Planeswalker</maintype>
+            </prop>
+            <set rarity="mythic" uuid="f6721431-418e-4c92-818a-50417066c229" num="248">BIMD</set>
+            <tablerow>1</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

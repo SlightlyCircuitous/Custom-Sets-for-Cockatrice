@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+    <sets>
+        <set>
+          <name>PAMD</name>
+          <longname>Pride Across the Multiverse Drop</longname>
+          <settype>Custom</settype>
+          <releasedate>2022-05-04</releasedate>
+        </set>
+    </sets>
+    <cards>
+    	<card>
+            <name>Alesha, Who Smiles at Death</name>
+            <text>First strike
+Whenever Alesha, Who Smiles at Death attacks, you may pay {W/B}{W/B}. If you do, return target creature card with power 2 or less from your graveyard to the battlefield tapped and attacking.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <format-legacy>legal</format-legacy>
+                <colors>R</colors>
+                <type>Legendary Creature — Human Warrior</type>
+                <coloridentity>WBR</coloridentity>
+                <maintype>Creature</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>2R</manacost>
+                <layout>normal</layout>
+                <pt>3/2</pt>
+                <format-penny>legal</format-penny>
+                <cmc>3</cmc>
+                <format-modern>legal</format-modern>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="5e38facb-f520-4950-aa73-bebd2011565c" num="1007" rarity="rare">PAMD</set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bearscape</name>
+            <text>{1}{G}, Exile two cards from your graveyard: Create a 2/2 green Bear creature token.</text>
+            <prop>
+                <format-legacy>legal</format-legacy>
+                <colors>G</colors>
+                <format-premodern>legal</format-premodern>
+                <type>Enchantment</type>
+                <coloridentity>G</coloridentity>
+                <maintype>Enchantment</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>1GG</manacost>
+                <layout>normal</layout>
+                <cmc>3</cmc>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="d8855d65-98fc-4b5f-bd68-95d2fda6345f" num="702" rarity="rare">PAMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Collective Voyage</name>
+            <text>Join forces — Starting with you, each player may pay any amount of mana. Each player searches their library for up to X basic land cards, where X is the total amount of mana paid this way, puts them onto the battlefield tapped, then shuffles.</text>
+            <prop>
+                <format-legacy>legal</format-legacy>
+                <colors>G</colors>
+                <type>Sorcery</type>
+                <coloridentity>G</coloridentity>
+                <maintype>Sorcery</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>G</manacost>
+                <layout>normal</layout>
+                <cmc>1</cmc>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="c54c9dfe-685a-4400-aa7c-0a944c33577b" num="1008" rarity="rare">PAMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Heartbeat of Spring</name>
+            <text>Whenever a player taps a land for mana, that player adds one mana of any type that land produced.</text>
+            <prop>
+                <format-legacy>legal</format-legacy>
+                <colors>G</colors>
+                <type>Enchantment</type>
+                <coloridentity>G</coloridentity>
+                <maintype>Enchantment</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>2G</manacost>
+                <layout>normal</layout>
+                <format-penny>legal</format-penny>
+                <cmc>3</cmc>
+                <format-modern>legal</format-modern>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="2714874e-ad9c-4b9a-a91d-16865d29b183" num="1009" rarity="rare">PAMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Mana Confluence</name>
+            <text>{T}, Pay 1 life: Add one mana of any color.</text>
+            <prop>
+                <format-pioneer>legal</format-pioneer>
+                <format-legacy>legal</format-legacy>
+                <type>Land</type>
+                <format-vintage>legal</format-vintage>
+                <maintype>Land</maintype>
+                <layout>normal</layout>
+                <cmc>0</cmc>
+                <format-modern>legal</format-modern>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="fa4b80b1-fc8d-4da6-964a-3b85451c3049" num="1011" rarity="rare">PAMD</set>
+            <tablerow>0</tablerow>
+        </card>
+        <card>
+            <name>Savor the Moment</name>
+            <text>Take an extra turn after this one. Skip the untap step of that turn.</text>
+            <prop>
+                <format-legacy>legal</format-legacy>
+                <colors>U</colors>
+                <type>Sorcery</type>
+                <coloridentity>U</coloridentity>
+                <maintype>Sorcery</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>1UU</manacost>
+                <layout>normal</layout>
+                <cmc>3</cmc>
+                <format-modern>legal</format-modern>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="dc8280fe-aea3-4796-af6e-6226c6085b99" num="1006" rarity="rare">PAMD</set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Sol Ring</name>
+            <text>{T}: Add {C}{C}.</text>
+            <prop>
+              <layout>normal</layout>
+              <side>front</side>
+              <type>Artifact</type>
+              <maintype>Artifact</maintype>
+              <manacost>1</manacost>
+              <cmc>1</cmc>
+              <format-commander>legal</format-commander>
+            </prop>
+            <set uuid="e3b2235b-6c18-436e-9d80-4a82ce0cac14" num="1010" rarity="rare">PAMD</set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Triumphant Reckoning</name>
+            <text>Return all artifact, enchantment, and planeswalker cards from your graveyard to the battlefield.</text>
+            <prop>
+                <format-legacy>legal</format-legacy>
+                <colors>W</colors>
+                <type>Sorcery</type>
+                <coloridentity>W</coloridentity>
+                <maintype>Sorcery</maintype>
+                <format-vintage>legal</format-vintage>
+                <manacost>6WWW</manacost>
+                <layout>normal</layout>
+                <format-historic>legal</format-historic>
+                <format-historicbrawl>legal</format-historicbrawl>
+                <format-gladiator>legal</format-gladiator>
+                <cmc>9</cmc>
+                <side>front</side>
+                <format-commander>legal</format-commander>
+                <format-duel>legal</format-duel>
+            </prop>
+            <set uuid="0b822c67-77af-4778-ad1a-374fd780991d" num="1005" rarity="mythic">PAMD</set>
+            <tablerow>3</tablerow>
+        </card>
+    </cards>
+</cockatrice_carddatabase>

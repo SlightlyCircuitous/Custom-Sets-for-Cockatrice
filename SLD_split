@@ -65,4 +65,4 @@ def SLD_split(cards_xml, card_names, sets_data, output_name):
     
     #return list of collector numbers for checking which art is referenced
     
-    return [coll.attrib['num'] for coll in new_root.findall("./cards/card/set")]
+    return sorted([coll.attrib['num'] for coll in new_root.findall("./cards/card/set")])

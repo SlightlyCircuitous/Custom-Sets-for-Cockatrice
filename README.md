@@ -34,7 +34,7 @@ Drops that are entirely multiple artworks for the same card:
 * Seeing Visions
 * Thalia - Beyond the Helvault
 
-Cockatrice will only display one piece of artwork for a card at a time so it doesn't make sense to have a custom set that is only one card with multiple artwork lines. If you want a particular piece of art for a card from one of these sets, better to just make your own custom set with that card and list only the particular art that you want.
+Cockatrice will only display one piece of artwork for a card at a time so it doesn't make sense to have a custom set that is only one card with multiple artwork lines. If you want a particular piece of art for a card from one of these sets, better to just make your own [custom set](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) with that card and list only the particular art that you want.
 
 # Making Your Own
 

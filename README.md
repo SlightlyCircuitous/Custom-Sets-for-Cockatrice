@@ -36,6 +36,9 @@ Drops that are entirely multiple artworks for the same card:
 
 Cockatrice will only display one piece of artwork for a card at a time so it doesn't make sense to have a custom set that is only one card with multiple artwork lines. If you want a particular piece of art for a card from one of these sets, better to just make your own [custom set](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) with that card and list only the particular art that you want.
 
+Drops that aren't in Cockatrice cards.xml:
+* Stranger Things
+
 # Making Your Own
 
 You are welcome to use my SLD_split() function (listed above) to make your own custom sets by pulling cards out of the SLD set. It will work on any list of card names from SLD. Just be careful what you name the set so as not to overlap with the 4-letter codes used in Cockatrice already. The function will check if the code entered is already in use to a point; it only looks at codes that end in 'D' since I name all my Drop sets with a 'D' at the end. Also ensure that the function has pulled to correct version of the card that you want; it ouputs a list of collector numbers you can compare to Scryfall for this purpose. You may need to manually change the UUID in the .xml file if not. I make the occasional token file manually, so no code is provided for that.

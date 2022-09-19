@@ -38,8 +38,6 @@ Cockatrice will only display one piece of artwork for a card at a time so it doe
 
 Drops that aren't in Cockatrice cards.xml currently:
 * Stranger Things
-* Secret Lair x Fortnite
-* Secret Lair x Fortnite: Locations
 
 # Making Your Own
 

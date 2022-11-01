@@ -10,9 +10,8 @@ Card Sets:
 
 1) Download the .xml's for the sets that you want
 2) Place them in the 'customsets' folder for Cockatrice (Card Database -> Open Custom Sets should take you right there)
-3) Change the 'xx' in each file name to some unique two digit number, with a leading zero if necesary (01, 02, 03, etc)
-4) Restart Cockatrice and confirm the enabling of new sets
-5) Prioritize the new sets as needed in Card Database -> Manage sets...
+3) Restart Cockatrice and confirm the enabling of new sets
+4) Prioritize the new sets as needed in Card Database -> Manage sets...
 
 Token Sets:
 

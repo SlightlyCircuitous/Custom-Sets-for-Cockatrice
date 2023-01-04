@@ -10,7 +10,7 @@ Card Sets:
 
 1) Download the .xml's for the sets that you want
 2) Place them in the 'customsets' folder for Cockatrice (Card Database -> Open Custom Sets should take you right there)
-3) Restart Cockatrice and confirm the enabling of new sets
+3) Restart Cockatrice (if open) and confirm the enabling of new sets
 4) Prioritize the new sets as needed in Card Database -> Manage sets...
 
 Token Sets:
@@ -18,9 +18,15 @@ Token Sets:
 1) Download the token .xml file included with the set release
 2) Open the 'customsets' folder for Cockatrice (Card Database -> Open Custom Sets should take you right there)
 3) Copy the set and card information from the token file into the TK.xml file in 'customsets' and save the file
-4) Restart Cockatrice.
+4) Restart Cockatrice (if open).
 
 Souce: The wonderful [Cockatrice Wiki](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets)
+
+Notes:
+
+I recommend disabling the SLD set when using these drop sets so you only get the art you want and it doesn't interfere with sorting.
+
+For the Stranger Things and Street Fighter sets, I have elected to list those cards by their SLD name (ex. Chun-Li, Countless Kicks, Will the Wise, etc) rather than their Universe Within names. That is how they were originally printed and there is no reference to the Universe Within names on the cards. Hadoken is the only exception to this; it is listed as Fireball since it was originally printed as an alias of Fireball. Because of this, the Clue Token in strangerthingstokens.xml has additional entries for the SLD card names that make Clues; please copy from that file to ensure the cards find their tokens correctly.
 
 # Drops NOT in this Repository
 Drops that are entirely multiple artworks for the same card:
@@ -34,9 +40,6 @@ Drops that are entirely multiple artworks for the same card:
 * Thalia - Beyond the Helvault
 
 Cockatrice will only display one piece of artwork for a card at a time so it doesn't make sense to have a custom set that is only one card with multiple artwork lines. If you want a particular piece of art for a card from one of these sets, better to just add it to the [CUSTOM folder](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) in Cockatrice.
-
-Drops that aren't in Cockatrice cards.xml currently:
-* Stranger Things
 
 # Making Your Own
 

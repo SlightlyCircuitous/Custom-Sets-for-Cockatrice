@@ -18,10 +18,10 @@ Token Sets:
 1) Download the token .xml files for the drops that you want
 2) Open the 'customsets' folder for Cockatrice (Card Database -> Open Custom Sets should take you right there)
 3) 
-To include the tokens in the same set as the other cards in the drop:
-   Copy the set and card information from the token file into the TK.xml file, making sure the set info is in the 'sets' section and the card info is in the 'cards' section.
-To group the tokens together into the provided 'TK' dummy set:
-    Copy only card information from the token file into the TK.xml flie and change the set code on the set line to 'TK'. 
+   a. To include the tokens in the same set as the other cards in the drop, copy the set and card information from the token file into the TK.xml file, making sure the set info is in the 'sets' section and the card info is in the 'cards' section.
+   
+   b. To group the tokens together into the provided 'TK' dummy set, copy only card information from the token file into the 'cards' section of the TK.xml flie and change the set code on the set line to 'TK'. 
+    
 4) Save the file and restart Cockatrice if it was open.
 5) Prioritize the new sets as needed. TK is by default at the bottom of the list so make sure to bring it to the top if you are using that one.
 

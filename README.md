@@ -45,6 +45,7 @@ Drops that are entirely multiple artworks for the same card:
 * Thalia - Beyond the Helvault
 * The Astrology Lands
 * Shadowborn Apostles Bonus Cards
+* Featuring: The Mountain Goats
 
 Cockatrice will only display one piece of artwork for a card at a time so it doesn't make sense to have a custom set that is only one card with multiple artwork lines. If you want a particular piece of art for a card from one of these sets, it would be better to just add it to the [CUSTOM folder](https://github.com/Cockatrice/Cockatrice/wiki/Custom-Cards-&-Sets) in Cockatrice.
 

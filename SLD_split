@@ -32,18 +32,38 @@ def SLD_split(cards_xml, card_names, sets_data, output_name):
     sets = ET.SubElement(new_root, 'sets')
     a_set = ET.SubElement(sets, 'set')
     ET.SubElement(a_set, 'name').text = sets_data['name']
-    ET.SubElement(a_set, 'longname').text = sets_data['longname']
+    ET.SubElement(a_set, 'longname').text = sets_data['longname'] + ' Drop'
     ET.SubElement(a_set, 'settype').text = 'Custom'
     ET.SubElement(a_set, 'releasedate').text = sets_data['releasedate']
     cards = ET.SubElement(new_root, 'cards')
+    
+    trans_list = [] #possibly needed list for transform card backsides
     
     #search for cards and write results to file
     
     for card in root.findall('./cards/card'): #specific to the structure of cards.xml
         
-        if card.find('name').text in names:
+        front_name = card.find('name').text
+        
+        if front_name in card_names:
             
             cards.append(card) #appends card element as child of cards
+            
+            #check to see if any cards transform so the back face art can be included
+            
+            node = card.find('./related[@attach="transform"]')
+            
+            if node is not None: #check for an exisiting 'related' element
+                
+                trans_face = node.text
+            
+                for trans_card in root.findall('./cards/card'): 
+        
+                    if trans_card.find('name').text == trans_face:
+            
+                        trans_list.append(trans_card) #appends card element as child of cards
+                          
+    cards.extend(trans_list) #add in the transform backsides
             
     #remove non-SLD set information and changes SLD set to sets_data['name']
     
@@ -54,7 +74,7 @@ def SLD_split(cards_xml, card_names, sets_data, output_name):
             if child.tag == 'set' and child.text != 'SLD': #either/or would delete a lot of lines
                 
                 elem.remove(child) #.remove needs to be pointed *directly* at what it removes
-
+                
         elem.find('set').text = sets_data['name'] #changes set text to new name
         
     #clean up and write to file    
@@ -63,6 +83,14 @@ def SLD_split(cards_xml, card_names, sets_data, output_name):
     ET.indent(new_tree, space='    ') #puts in all the nice whitespace
     new_tree.write(output_name+'.xml',encoding='utf-8', xml_declaration=True) #writes using a class method
     
-    #return list of collector numbers for checking which art is referenced
+    #Mention transform cards if needed
     
-    return sorted([coll.attrib['num'] for coll in new_root.findall("./cards/card/set")])
+    trans_len = len(trans_list)
+    
+    if trans_len != 0:
+        
+        print(f"Included backside art for {trans_len} cards that can transform.")
+    
+    #return set of collector numbers for checking which art is referenced; this removes duplicates from transformed cards
+    
+    return sorted(set(int(coll.attrib['num']) for coll in new_root.findall("./cards/card/set")))
